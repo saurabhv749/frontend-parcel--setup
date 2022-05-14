@@ -1,4 +1,4 @@
-# parcel-frontend-setup
+# frontend-parcel--setup
 
 contains the basic frontend development setup using parcel for bundling and serve to test out the production build
 
@@ -32,4 +32,4 @@ to start a local server serving the production build
 ```
 npm run test
 ```
-# frontend-parcel--setup
+
