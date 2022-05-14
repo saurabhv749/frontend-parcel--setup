@@ -1,18 +1,14 @@
 {
   "name": "frontend-dev-setup",
   "version": "1.0.0",
-  "description": "contains the basic frontend development setup using parcel for bundling and serve to test out the production build",
+  "description": "",
   "scripts": {
     "start": "parcel ./src/index.html",
     "build": "parcel build --no-source-maps --dist-dir public ./src/index.html",
     "prod": "serve -C -c serve.json",
     "test": "npm run build && npm run prod"
   },
-  "keywords": [
-    "portfolio",
-    "react",
-    "nextUI"
-  ],
+  "keywords": [],
   "author": "saurabh verma",
   "license": "ISC",
   "dependencies": {
